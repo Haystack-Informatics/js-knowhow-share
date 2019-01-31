@@ -29,3 +29,15 @@ https://github.com/facebook/create-react-app
 There are a ton of bloggers ... I've always found that going to the distors core tech docs is the best way to obtain definitive authortative info
 
 Sandbox - CodePen
+
+
+[Current State of JS - 2018 Edition](https://2018.stateofjs.com/introduction/)
+
+[Eloquent JavaScript - 3rd Edition](https://eloquentjavascript.net/)
+
+[Node](https://nodejs.org/en/)
+
+[npm](https://www.npmjs.com/)
+
+
+path issue avoid npm i -g , if local then call directly ./node_modukes/...
