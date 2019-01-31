@@ -41,3 +41,9 @@ Sandbox - CodePen
 
 
 path issue avoid npm i -g , if local then call directly ./node_modukes/...
+
+## TL;DR
+
+## Preamble
+
+## Before messing with JS, I wish I would've been aware of or knew..
