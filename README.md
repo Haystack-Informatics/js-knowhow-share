@@ -20,7 +20,7 @@ bryce can you help out here...?
 * [MDN Web Docs](https://developer.mozilla.org/en-US/) - single cource of truth for modern web development IMHO
 
 
-
+something about project structure...no top-down conventions
 
 web client
 \_semantic ui - UI component "framework" (neo/modern bootstrap) w custom themeing
