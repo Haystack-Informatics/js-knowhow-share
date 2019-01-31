@@ -17,7 +17,7 @@ bryce can you help out here...?
 ### Dope Links
 * [Current State of JS - 2018 Edition](https://2018.stateofjs.com/introduction/) - informative high level and interactive overview of what's going on in the JS world
 * [Eloquent JavaScript - 3rd Edition](https://eloquentjavascript.net/) - authoritative JS intro/overview
-* [MDN Web Docs](https://developer.mozilla.org/en-US/) - single cource of truth for modern web development IMHO
+* [MDN Web Docs](https://developer.mozilla.org/en-US/) - single source of truth for modern web development IMHO
 
 
 something about project structure...no top-down conventions
@@ -64,7 +64,7 @@ immutability
 
 
 
-path issue avoid npm i -g , if local then call directly ./node_modukes/...
+path issue avoid npm i -g , if local then call directly ./node_modules/...
 
 ## TL;DR
 
