@@ -39,11 +39,6 @@ of which only a handful at this time are
 
 Essentially, every Node package is a JavaScript Library
 
-## Modern JavaScript: SPA Concepts, ES6, State Management
-
-I wouldn't suggest diving right into React or any other view library/framework. There are some core concepts to one should be familiar with before getting lost in the React weeds.
-
-...
 ## Getting Into It
 
 ### Sand-boxing
