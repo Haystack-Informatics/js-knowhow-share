@@ -21,7 +21,7 @@ Note: Be weary of blogs. The majority of them have been scrapped by some crawler
 [Node](https://nodejs.org/en/) is a JavaScript **runtime environment** (similar to CLR) and [npm](https://www.npmjs.com/) is Node's package manager (similar to NuGet).
 
 1. [Set up Node and NPM](https://blog.teamtreehouse.com/install-node-js-npm-windows)
-2. [Git for Windows](https://git-scm.com/download) - Comes with a MinGW (Minimalist GNU for Windows)
+2. [Git for Windows](https://git-scm.com/download) - Comes with a MinGW (Minimalist GNU for Windows) terminal
 
 Once you can confirm the items above have been installed properly you should be good to move on. 
 
