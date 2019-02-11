@@ -23,8 +23,6 @@ Note: Be weary of blogs. The majority of them have been scrapped by some crawler
 1. [Set up Node and NPM](https://blog.teamtreehouse.com/install-node-js-npm-windows)
 2. [Git for Windows](https://git-scm.com/download) - Comes with a MinGW (Minimalist GNU for Windows) terminal
 
-Once you can confirm the items above have been installed properly you should be good to move on. 
-
 ## Getting Into It
 
 ### Sand-boxing
@@ -35,11 +33,11 @@ Once you can confirm the items above have been installed properly you should be 
 * [React and Semantic UI - User Interface](https://codepen.io/SpeauDetcR/full/qYvERm) - This is a code challenge I did about a year ago. All the details are in the pen.
 * [React + Redux used to consume API](https://codepen.io/SpeauDetcR/full/ELEozX) - This pen uses the DC Metro open API to check arrival times of upcoming trains
 
-Note: [You can change the view of the pen to edit the source code](http://prntscr.com/mjq25r)
+Note: [You can change the view of each pen to edit the source code](http://prntscr.com/mjq25r)
 
 ### Generators
 
-Some contributors in the community have created tools referred to as "Generators." These generators are a useful was to get up and running with a full-fledged Node application. These generators,  once installed globally on your machine (i.e., ```npm i -g```), have the ability to run a scaffolding process which creates a local instance of a particular application.
+Some contributors in the community have created tools referred to as "Generators." These generators are a useful way to get up and running with a full-fledged Node application. These generators, once installed properly/globally on your machine (i.e., ```npm i -g```), have the ability to run a scaffolding process which creates a local instance of a particular application. Links contain instructions.
 
 * [Express](https://expressjs.com/en/starter/generator.html)
 * [Create React App](https://github.com/facebook/create-react-app)
