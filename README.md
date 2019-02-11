@@ -4,7 +4,7 @@
 "...how long does it take to become a JS developer.."
 "...how can we learn or go about learning modern JS..."
 ```
-This is a formal response which aims to address those, and related, concerns.
+This is a formal-ish response which aims to address those, and related, concerns.
 
 ## Learning Resources
 
