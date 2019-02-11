@@ -39,6 +39,11 @@ of which only a handful at this time are
 
 Essentially, every Node package is a JavaScript Library
 
+
+## Modern JavaScript: SPA Concepts, ES6, State Management
+
+...todo
+
 ## Getting Into It
 
 ### Sand-boxing
