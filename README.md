@@ -46,11 +46,13 @@ Some contributors in the community have created tools referred to as "Generators
 
 ### Demo Apps
 
-So CodePen is primarily used for front-end and API related development. Below you'll find links to some solid Git repositories.
+So CodePen is primarily used for front-end and API related development. Below you'll find links to some Git repositories I've worked on in the past.
 
 * [Minimalist Real World React App](https://github.com/speaud/SMART-on-FHIR-exercise)
 * [Haystack's Developer Exercise](https://github.com/speaud/takehome-exercise)
 * [React and Redux Static Pool Game](https://github.com/speaud/o3_pool_app_exercise)
+
+Note: There are many more examples out there. The above items are intended to "get you going," and are not to be considered as a absolute.
 
 ### "Hello World!" Tutorials and Misc. Resources
 
