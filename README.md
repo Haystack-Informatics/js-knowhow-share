@@ -17,10 +17,17 @@ I'm not too sure how everyone else prefers to learn so..
 
 ## Learning Resources
 
+<<<<<<< HEAD
 *  [Current State of JS - 2018 Edition](https://2018.stateofjs.com/introduction/) - informative high level and interactive overview of what's going on in the JS world
 *  [Eloquent JavaScript - 3rd Edition](https://eloquentjavascript.net/) - authoritative JS intro/overview including modern ES6
 *  [MDN Web Docs](https://developer.mozilla.org/en-US/) - single source of truth for modern web development IMHO
 * [ECMAScript 6](http://es6-features.org/#Constants) - Latest overview of JavaScript's built-in features.
+=======
+### Dope Links
+* [Current State of JS - 2018 Edition](https://2018.stateofjs.com/introduction/) - informative high level and interactive overview of what's going on in the JS world
+* [Eloquent JavaScript - 3rd Edition](https://eloquentjavascript.net/) - authoritative JS intro/overview
+* [MDN Web Docs](https://developer.mozilla.org/en-US/) - single source of truth for modern web development IMHO
+>>>>>>> 0ed960eb17c6f33bfdfe094558a2c6725a887c5a
 
 Note: Be weary of blogs. The majority of them have been scrapped by some crawler from one another and can be misleading. **If you do stumble upon a post be mindful of the version of the respective technology that is used in said post. The JavaScript world is a developing one. As a language itself as well as the general supporting ecosystem. There can be paradigm-changing differences between major version releases.** In short, I always find it helpful to go to the core tech docs from the distributor of each respective technology. IHMO this saves times and ensures you're consuming valid information.
 
@@ -76,4 +83,32 @@ So CodePen is primarily used for front-end and API related development. Below yo
 
 ## Haystack's Front-End and API Overview
 
+<<<<<<< HEAD
 is this necassary for this exercise..?
+=======
+
+
+path issue avoid npm i -g , if local then call directly ./node_modules/...
+
+## TL;DR
+
+## Preamble
+
+## Setting up your box
+
+## Before messing with JS, I wish I would've been aware of or knew..
+
+[Node](https://nodejs.org/en/) similar to CLR
+
+[npm](https://www.npmjs.com/) similiar to NuGet
+
+Node is a runtime environment!
+
+All of these other libraries and frameworks you hear of or see are dependencies 
+
+
+libraries and frameworks
+
+
+Gulp, Grunt, and Webpack
+>>>>>>> 0ed960eb17c6f33bfdfe094558a2c6725a887c5a
