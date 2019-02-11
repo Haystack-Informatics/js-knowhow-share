@@ -12,7 +12,7 @@ This is a formal-ish response which aims to address those, and related, concerns
 *  [Eloquent JavaScript - 3rd Edition](https://eloquentjavascript.net/) - authoritative JS intro/overview including modern ES6
 *  [MDN Web Docs](https://developer.mozilla.org/en-US/) - single source of truth for modern web development IMHO
 *  [ECMAScript 6](http://es6-features.org/#Constants) - Latest overview of JavaScript's built-in features
-*  [Leanring About Git](https://try.github.io/) - Git's learning dashbaord with many git-related resources 
+*  [Learning About Git](https://try.github.io/) - Git's learning dashboard with many git-related resources 
 
 Note: Be weary of blogs. The majority of them have been scrapped by some crawler from one another and can be misleading. **If you do stumble upon a post, be mindful of the version of the respective technology that is used in said post. The JavaScript world is a developing one. As a language itself as well as the general supporting ecosystem. There can be paradigm-changing differences between major version releases.** In short, I always find it helpful to go to the core tech docs from the distributor of each respective technology. IHMO this saves times and ensures you're consuming valid information.
 
