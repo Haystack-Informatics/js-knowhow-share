@@ -35,7 +35,7 @@ Once you can confirm the items above have been installed properly you should be 
 * [React and Semantic UI - User Interface](https://codepen.io/SpeauDetcR/full/qYvERm) - This is a code challenge I did about a year ago. All the details are in the pen.
 * [React + Redux used to consume API](https://codepen.io/SpeauDetcR/full/ELEozX) - This pen uses the DC Metro open API to check arrival times of upcoming trains
 
-Note: [You can the view to edit the source code for the links above](http://prntscr.com/mjq25r)
+Note: [You can change the view of the pen to edit the source code](http://prntscr.com/mjq25r)
 
 ### Generators
 
