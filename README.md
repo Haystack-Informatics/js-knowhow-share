@@ -35,6 +35,8 @@ Note: Be weary of blogs. The majority of them have been scrapped by some crawler
 
 Note: [You can change the view of each pen to edit the source code](http://prntscr.com/mjq25r)
 
+[Update: You can add npm packages to a pen through the pen's settings opts - screencast link](https://screencast-o-matic.com/watch/cqnI3R381G)
+
 ### Generators
 
 Some contributors in the community have created tools referred to as "Generators." These generators are a useful way to get up and running with a full-fledged Node application. These generators, once installed properly/globally on your machine (i.e., ```npm i -g```), have the ability to run a scaffolding process which creates a local instance of a particular application. Links contain instructions.
