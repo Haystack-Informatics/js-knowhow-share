@@ -27,7 +27,7 @@ Note: Be weary of blogs. The majority of them have been scrapped by some crawler
 
 ### Sand-boxing
 
-[CodePen](https://codepen.io/#) is a great learning environment. I use it on a regular basis. This tool allows you to start messing with different JavaScript technologies in real-time without having to configure a local environment. It also provides a ton of features! Below you'll find links to some of my pens for you to fork then play with.
+[CodePen](https://codepen.io/#) is a great learning environment. This tool allows you to start messing with different JavaScript technologies in real-time without the need to configure a local environment. Great for building out small modules. It also provides a ton of features! Below you'll find links to some of my pens for you to fork then play with.
 
 * [Basic React Component Reference](https://codepen.io/SpeauDetcR/full/VdwEJP) - General overview of a basic React component
 * [React and Semantic UI - User Interface](https://codepen.io/SpeauDetcR/full/qYvERm) - This is a code challenge I did about a year ago. All the details are in the pen.
@@ -57,6 +57,7 @@ Note: There are many more examples out there. The above items are intended to "g
 
 ### "Hello World!" Tutorials and Misc. Resources
 
+* [Based Node App by MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/development_environment)
 * [React Based Demo App Collection](https://reactjs.org/community/examples.html) - Collection of React-based demo apps approved by the core distro team
 * [Express](https://expressjs.com/en/starter/hello-world.html) - Basic example to setup a simple http server using Node and Express
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery) - There's a ton of stuff here! We only use D3 for the 'network graph," so some of the examples here may be out of the scope in which we use D3.
